@@ -1,0 +1,7 @@
+spriteTypes = {
+
+	spriteType = {
+		name = "GFX_portrait_SED_character"
+		texturefile = "gfx/leaders/SED/pm.tga"
+	}
+}
